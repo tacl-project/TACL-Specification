@@ -17,6 +17,7 @@ TACL uses a strongly typed syntax supporting the following native types:
 - **Floating Point Number** (`float`)
 - **String** (`string`)
 - **List** (`list[type]`)
+- **Null** (`null`)
 - **Dictionary** (`dict[key_type, value_type]`)
 - **Literal Types** (`literal["option1", "option2"]`)
 - **Optional Types** (`optional[type]`)
