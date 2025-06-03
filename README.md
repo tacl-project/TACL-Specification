@@ -2,8 +2,6 @@
 
 TACL is a declarative, type-safe, YAML-esque language for creating application configuration files.
 
-> **As TypeScript is to JavaScript, TACL is to YAML**
-
 It can be loaded natively into your application or compiled to YAML, JSON, and TOML using compilers and loaders in the following languages:
 - **Python** (3.13+) - Available
 - **Rust** - In Development  
@@ -48,7 +46,7 @@ TACL focuses on **static, declarative configuration** with **compile-time valida
 > *"This project is absolutely worthwhile"*  
 > — ChatGPT
 
-> *"This isn't pointless at all."*  
+> *"TypeScript for config files."*  
 > — Claude
 
 > *"Error: INSTALLATION FAILED: json: cannot unmarshal bool into Go struct field ConfigMap.data of type string"*  
